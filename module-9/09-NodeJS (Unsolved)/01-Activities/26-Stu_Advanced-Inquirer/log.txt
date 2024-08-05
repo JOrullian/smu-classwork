@@ -1,0 +1,8 @@
+{
+	"name": "Jed",
+	"languages": [
+		"English",
+		"Spanish"
+	],
+	"communication": "Call"
+}

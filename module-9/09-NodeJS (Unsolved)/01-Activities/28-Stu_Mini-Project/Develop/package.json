@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Takes input from node.js and creates an HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jedediah Orullian",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
